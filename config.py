@@ -1,3 +1,3 @@
 API_ID = 0
 API_HASH = ""
-BOT_TOKEN = ""
+BOT_TOKEN = "8542603438:AAFz0lzfCn_egId_awz_b1emJImZ4oQdIds"
